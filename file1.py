@@ -1,4 +1,4 @@
-
+#sample function
 
 def do_twice(func):
     def wrapper_do_twice():
